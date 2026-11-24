@@ -1,0 +1,24 @@
+================================================
+                THE LOCKER HEIST
+       A Detective Game backed by OOP Principles
+================================================
+
+Developed By:
+    [MUHAMMAD REHAN ZAHID]   |   [25F-0838]
+    [HAADULLAH FAYYAZ]       |   [25F-0727]
+
+Course: CL1004 - Object Oriented Programming
+Section: CS - 3 - A
+Semester: Fall 2026
+Lab Instructor: [MISS ZAINAB NOOR]
+
+-------------- ABOUT THE GAME --------------
+
+A wealthy business owner hosted a party at their cottage.
+During the party, a locker hidden behind a bookshelf in
+the Study Room was robbed. The locker contained valuable
+documents and assets. Eight people were present in the
+cottage that night and one of them is the CULPRIT.
+
+The owner's Personal Assistant has hired you as a private
+detective, to investigate the case.
